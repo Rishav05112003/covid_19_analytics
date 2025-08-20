@@ -1,0 +1,49 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode / PyCharm / IDE configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg & distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment / Package files
+*.env
+.env
+*.venv
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+
+worldometer_coronavirus_summary_data.csv
+worldometer_coronavirus_daily_data.csv
